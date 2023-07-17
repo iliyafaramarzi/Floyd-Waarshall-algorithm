@@ -12,6 +12,6 @@ And then we have to change the values to the shortest paths.
 
 
 ##Contact me
-[Telegram](https://t.me/iliyaFaramarzi)
-[Instagram](https://www.instagram.com/faramarziiliya/)
+[Telegram](https://t.me/iliyaFaramarzi)<br />
+[Instagram](https://www.instagram.com/faramarziiliya/)<br />
 [Linkedin](https://www.linkedin.com/in/iliya-faramarzi-13109a21a/)
