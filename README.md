@@ -1,4 +1,4 @@
-# Floyd-Waarshall algorithm
+# Floyd-Warshall algorithm
 The Floyd-Waarshall algorithm (also known as the WFI algorithm) is an algorithm for finding the shortest paths between all of the points of a graph. Also, this graph can be a weighted graph with positive or negative vertices (but with no negative cycles).
 
 ## How Floyd's algorithm work?
